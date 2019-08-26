@@ -1,0 +1,18 @@
+﻿Final Project
+1. 자유 주제로 조별 프로젝트 진행
+* 개인별로 진행된 프로젝트 내용을 토론한 후 주제를 정의하거나
+  별개의 주제를 선정한다.
+* 프로젝트 기간 : 2019/8/26 ~ 2019/8/30 오후 1:59 
+* 매일 작업 일지 제출 : https://github.com/aicoreEC/FinalProject
+
+* 결과물
+  0. 개인별 프로젝트 수행 결과
+    0.1 jupyter notebook용 script file
+    0.2 수집한 자료 csv/excel 파일
+    0.3 결과 보고서 PDF & PPT  
+  1. jupyter notebook용 script file
+  2. 수집한 자료 csv/excel 파일
+  3. 결과 보고서 PDF & PPT
+
+* 2019/8/26 오후 2:00 조별 발표
+  
